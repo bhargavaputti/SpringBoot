@@ -58,4 +58,56 @@ spring.datasource.password=yourpassword
 # Build and run the project
 mvn spring-boot:run
 ```
+---
+
+## 📬 **API Endpoints**
+
+| Method | Endpoint | Description |
+|--------|-----------|-------------|
+| `POST` | `/employees` | Add a new employee |
+| `GET`  | `/employees` | Retrieve all employees |
+| `GET`  | `/employees/{id}` | Retrieve employee by ID |
+| `PUT`  | `/employees/{id}` | Update employee details |
+| `DELETE` | `/employees/{id}` | Delete employee by ID |
+
+---
+
+<details>
+<summary>🧠 <b>Concepts Covered</b></summary>
+
+- CRUD Operations using Spring Data JPA  
+- RESTful Web Services  
+- Exception Handling  
+- Service Layer Design  
+- Database Integration with MySQL  
+- API Testing with Postman  
+
+</details>
+
+---
+
+## 💻 **Project Structure**
+```bash
+src/
+└── main/
+├── java/com/example/crud/
+│ ├── controller/ # REST endpoints for employees
+│ ├── entity/ # Employee entity
+│ ├── repository/ # JPA Repository interface
+│ ├── service/ # Business logic implementation
+│ └── CrudsbApplication.java
+└── resources/
+└── application.properties
+```
+
+---
+
+## 🧑‍💻 **Author**
+
+**Bhargav Putti**  
+💼 Java Full Stack Developer | ☕ Backend Development Enthusiast  
+🔗 [GitHub Profile](https://github.com/your-username)
+
+---
+
 
