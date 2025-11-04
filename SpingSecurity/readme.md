@@ -90,7 +90,7 @@ src/
 🧑‍💻 Author
 Bhargav Putti
 💼 Java Full Stack Developer | ☕ Passionate about Backend Engineering
-🔗 GitHub Profile
+🔗 [GitHub Profile](https://github.com/bhargavaputti)
 
 ---
 
