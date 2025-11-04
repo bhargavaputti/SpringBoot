@@ -106,7 +106,7 @@ src/
 
 **Bhargav Putti**  
 💼 Java Full Stack Developer | ☕ Backend Development Enthusiast  
-🔗 [GitHub Profile](https://github.com/your-username)
+🔗 [GitHub Profile](https://github.com/bhargavaputti)
 
 ---
 
